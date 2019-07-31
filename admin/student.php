@@ -59,7 +59,7 @@ if($requestMethod=='POST'){
 
     addStudent($name,$surname,$tcno,$username,$password);
 
-    //Git deneme
+    //Git deneme 2
     
    
 
